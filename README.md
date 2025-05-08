@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on gta samp
+- 🔭 Currently I am working on gta samp server
 
 
 ![anime](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl1NTdheTRtb3VtenR1cmNhN3hlZmV3czVnZWZjZmJvdXEzenRhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12fWcohsEln5V6/giphy.gif)
