@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi there my introduction i am daviq
 
 <!--
 **Dapii280/Dapii280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on gta samp
+
+
+![anime](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzl1NTdheTRtb3VtenR1cmNhN3hlZmV3czVnZWZjZmJvdXEzenRhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12fWcohsEln5V6/giphy.gif)
