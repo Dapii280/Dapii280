@@ -1,4 +1,4 @@
-## hi there my introduction i am daviq
+## hi there my introduction i am Daviq
 
 <!--
 **Dapii280/Dapii280** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
