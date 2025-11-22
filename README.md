@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 Hi, I'm Daviq<br><br>I’m the type of guy who codes better with music on.  <br>Most of my projects start simple, then somehow evolve into “okay this is actually fun.”<br><br>- 🎧 Music addict while coding<br>- 💻 Enjoy building small projects that solve tiny problems (or just look cool)<br>- 🔍 Always curious about cleaner code and smarter tools<br>- 🚀 Learning new things here and there, no pressure — just vibes<br>- 🧪 Love experimenting with ideas and turning them into working prototypes<br><br>If any of my repos caught your eye, feel free to explore or say hi.  <br>Let’s create something cool.<br>
+Hi, saya Daviq. Saya suka ngembangin project kecil, ngulik teknologi baru, dan merapikan hal-hal yang menurut saya kurang pas. Musik hampir selalu nemenin saya saat ngoding.
+Sekarang saya lagi fokus memperkuat skill web development dan nge-build repo ini pelan-pelan tapi konsisten.
 
 
 ## 🌐 Socials:
